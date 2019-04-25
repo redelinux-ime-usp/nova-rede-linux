@@ -79,7 +79,7 @@ Algo para o mesmo fim que usamos LDAP, para guardar os dados do usuário:
 
 ### SERVIDOR ADMIN
 Acho bom ter uma `moira`, que fica lá com os scripts de administração mais comuns, sipá um FAQ e um 
-guia atualizado da Rede, acho legal também colocar serviços de auditoria tipo `audictd` acho que se 
+guia atualizado da Rede, acho legal também colocar serviços de auditoria tipo `auditd` acho que se 
 chama.
 
 ### IMPRESSORA
