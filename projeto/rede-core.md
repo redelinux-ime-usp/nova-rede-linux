@@ -20,13 +20,11 @@ Precisamos de DHCP para fixar os endereços IPv4 das máquinas, servidores, cont
 
 ### DNS
 Precisamos de ─ pelo menos ─ um _domain name server_ para resolver o nosso endereço para o mundo nos 
-encontrar. Um DNS interno pode ser desnecessário se tivermos um outro que a gente não se importe em 
-confiar.
+encontrar.
 
 ### SSH
 Precisamos de uma entrada SSH para nos conectar remotamente e permitir que os usuários façam o 
-mesmo. Os tipos de uso que esperamos do SSH serão descritos posteriormente a fim de determinar que 
-tipo de setup será necessário.
+mesmo. [Tipos de uso](projeto/rede-ssh.md) que esperamos do SSH.
 
 ### WEB SERVER
 Precisamos de um servidor web pois, além de já hospedamos sites de usuários e o BCC costuma pedir 
